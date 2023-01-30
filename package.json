@@ -1,7 +1,7 @@
 
 
 {
-  "name": "Astro-Md",
+  "name": "BAY MAX-MD",
   "version": "0.0.6",
   "description": "Multi device whatsapp bot.",
   "main": "index.js",
@@ -18,8 +18,8 @@
 "keywords": [
 "whatsapp"
 ],
-"author": "VihangaYT",
-"developer": "VihangaYT",
+"author": "Abraham Dwamena",
+"developer": "ABRAHAM DWAMENA",
 "license": "GPL-3.0-or-later",
 "homepage": "https://github.com/",
 "dependencies": {
